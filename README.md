@@ -8,6 +8,7 @@ Para exibição foi utilizado o Streamlit que é um framework de código aberto 
 <img src="Imagem1.JPG">
 <b>Streamlit</b>
 </div>
+<br><br>
 
 <div align="center" >
 <img src="Imagem2.jpg">
