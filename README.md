@@ -1,6 +1,6 @@
 # VARIANTES DA COVID: Aplicação em Python + Dashboard Power BI.
 
-Esta é uma pequena aplicação em Python, utilizando a biblioteca pandas onde o foco é a análise dos dados do sequenciamento das variantes da covid no mundo.
+Esta é uma pequena aplicação em Python, utilizando a biblioteca pandas onde o foco é a análise de dados do sequenciamento das variantes da covid no mundo.
 
 Para exibição foi utilizado o Streamlit que é um framework de código aberto criado para ajudar Cientistas de Dados a publicar projetos sem a necessidade de grande conhecimento de ferramentas de front-end ou de deploy de aplicações.
 
