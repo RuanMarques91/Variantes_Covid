@@ -5,7 +5,7 @@ Esta é uma pequena aplicação em Python, utilizando a biblioteca pandas onde o
 Para exibição foi utilizado o Streamlit que é um framework de código aberto criado para ajudar Cientistas de Dados a publicar projetos sem a necessidade de grande conhecimento de ferramentas de front-end ou de deploy de aplicações.
 
 <div align="center" >
-<img src="Imagem1.jpg">
+<img src="Imagem1.JPG">
 <b>Streamlit</b>
 </div>
 
