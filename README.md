@@ -6,24 +6,23 @@ Para exibição foi utilizado o Streamlit que é um framework de código aberto 
 
 <div align="center" >
 <img src="Imagem2.jpg">
-<b>Streamlit<b>
+<b>Streamlit</b>
 </div>
 
-<br><br><br>
+<br><br>
 Como BÔNUS, também resolvi desenvolver um dashboard no Power BI com a Base de Dados.
 
 <div align="center" >
 <img src="Imagem1.JPG">
-<b>Power BI<b>
+<b>Power BI</b>
 </div>
 
-<br><br><br>
+<br><br>
 OBS: Arquivo em BI disponível para download!
 
+<b>Link da Aplicação no Streamlit:</b> https://share.streamlit.io/ruanmarques91/variantes_covid/main/streamlit_example_2.py
+
+<b>Link da Base de Dados utilizada:</b> https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
+
 <br>
-Link da Aplicação no Streamlit: https://share.streamlit.io/ruanmarques91/variantes_covid/main/streamlit_example_2.py
-
-Link da Base de Dados utilizada: https://www.kaggle.com/yamqwe/omicron-covid19-variant-daily-cases
-
-<br><br>
 https://heylink.me/ruanmarques
